@@ -1,0 +1,19 @@
+{
+  "name": "vongd.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vongd/vongd.github.io.git"
+  },
+  "author": "David Vong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vongd/vongd.github.io/issues"
+  },
+  "homepage": "https://github.com/vongd/vongd.github.io#readme"
+}
